@@ -10,8 +10,9 @@
   "author": "Joey Robinson <joeyrobinsondev@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "consolidate": "^0.15.1",
     "express": "^4.16.4",
-    "pug": "^2.0.3"
+    "swig": "^1.4.2"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
